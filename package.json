@@ -1,0 +1,26 @@
+{
+  "name": "mean-with-angular2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FahadAliSheikh/mean-stack-with-angular2.git"
+  },
+  "author": "fahad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FahadAliSheikh/mean-stack-with-angular2/issues"
+  },
+  "homepage": "https://github.com/FahadAliSheikh/mean-stack-with-angular2#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.3",
+    "nodemon": "^1.14.11"
+  }
+}
